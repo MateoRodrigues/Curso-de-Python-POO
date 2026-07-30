@@ -1,0 +1,9 @@
+[project]
+name = "PythonPOO"
+version = "0.1.0"
+description = "Repositório de estudos em Python feito por causa do curso de Python POO do Curso em Vídeo: exercícios, scripts e projetos práticos feitos ao longo do curso."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rich>=15.0.0",
+]
